@@ -13,4 +13,5 @@ The files in this repository consist of the following:
   
 To generate any of the plot .png files, perform the following:
   * Set your working directory
-  * Execute any of the R scripts, e.g. plot1.R, plot2.R, etc.
+  * Copy the five R scripts into your working directory
+  * Execute any of the four "plot" R scripts, e.g. plot1.R, plot2.R, etc.
